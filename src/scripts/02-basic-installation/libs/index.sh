@@ -26,6 +26,9 @@ source "$script_dir/libs/capitaine-cursors.sh"
 # shellcheck source=delta.sh
 source "$script_dir/libs/delta.sh"
 
+# shellcheck source=hancom.sh
+source "$script_dir/libs/hancom.sh"
+
 # shellcheck source=hello.sh
 source "$script_dir/libs/hello.sh"
 
